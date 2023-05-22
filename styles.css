@@ -1,0 +1,82 @@
+.box {
+    border: 1px solid black;
+    background: #f0f2f5;
+    background-size: 100px;
+    border-radius: 50px;
+
+}
+
+body {
+    background-color: #f0f2f5;
+}
+
+.crimson {
+    background-color: crimson;
+}
+
+.bg-gray {
+    background-color: #9092961f;
+}
+
+.bg-gray:hover {
+    background-color: #f0f2f5;
+}
+
+
+.cbtn:hover {
+    background-color: #9092961f;
+}
+
+
+.pbtn:hover {
+    background-color: #9092961f;
+}
+
+.bor {
+    border: 1px solid black;
+}
+
+.plus {
+    border: 4px solid white;
+    background-color: #1876f2;
+    color: white;
+    font-size: 35px;
+    border-radius: 50%;
+    font-weight: 100;
+    position: relative;
+    bottom: 30px;
+    right: 55px;
+}
+
+p {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-weight: 500;
+}
+
+img {
+    background-size: cover;
+}
+
+
+.imgpos {
+
+    position: relative;
+
+    bottom: 150px;
+    right: 10px;
+
+}
+
+.imgpos1 {
+    position: relative;
+    bottom: 150px;
+    left: 80px;
+}
+
+.imgpos2 {
+    position: relative;
+    bottom: 150px;
+    left: 165px;
+}
